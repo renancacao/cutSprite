@@ -1,0 +1,20 @@
+C:\Users\Renan\AppData\Local\Temporary Projects\cutSprite\bin\Debug\cutSprite.exe
+C:\Users\Renan\AppData\Local\Temporary Projects\cutSprite\bin\Debug\cutSprite.pdb
+C:\Users\Renan\AppData\Local\Temporary Projects\cutSprite\bin\Debug\cutSprite.xml
+C:\Users\Renan\AppData\Local\Temporary Projects\cutSprite\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Renan\AppData\Local\Temporary Projects\cutSprite\obj\Debug\cutSprite.Form1.resources
+C:\Users\Renan\AppData\Local\Temporary Projects\cutSprite\obj\Debug\cutSprite.Resources.resources
+C:\Users\Renan\AppData\Local\Temporary Projects\cutSprite\obj\Debug\cutSprite.vbproj.GenerateResource.Cache
+C:\Users\Renan\AppData\Local\Temporary Projects\cutSprite\obj\Debug\cutSprite.exe
+C:\Users\Renan\AppData\Local\Temporary Projects\cutSprite\obj\Debug\cutSprite.xml
+C:\Users\Renan\AppData\Local\Temporary Projects\cutSprite\obj\Debug\cutSprite.pdb
+C:\Users\Renan\Dropbox\pixels\wtp\cutSprite\cutSprite\obj\Debug\cutSprite.exe
+C:\Users\Renan\Dropbox\pixels\wtp\cutSprite\cutSprite\obj\Debug\cutSprite.xml
+C:\Users\Renan\Dropbox\pixels\wtp\cutSprite\cutSprite\obj\Debug\cutSprite.pdb
+C:\Users\Renan\Dropbox\pixels\wtp\cutSprite\cutSprite\bin\Debug\cutSprite.exe
+C:\Users\Renan\Dropbox\pixels\wtp\cutSprite\cutSprite\bin\Debug\cutSprite.pdb
+C:\Users\Renan\Dropbox\pixels\wtp\cutSprite\cutSprite\bin\Debug\cutSprite.xml
+C:\Users\Renan\Dropbox\pixels\wtp\cutSprite\cutSprite\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Renan\Dropbox\pixels\wtp\cutSprite\cutSprite\obj\Debug\cutSprite.Form1.resources
+C:\Users\Renan\Dropbox\pixels\wtp\cutSprite\cutSprite\obj\Debug\cutSprite.Resources.resources
+C:\Users\Renan\Dropbox\pixels\wtp\cutSprite\cutSprite\obj\Debug\cutSprite.vbproj.GenerateResource.Cache
